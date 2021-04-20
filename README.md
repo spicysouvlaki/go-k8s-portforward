@@ -1,3 +1,6 @@
+# this is a fork to support `k8s.io/client-go v0.19.2`
+
+---
 A Go library for creating port forwards into pods running in a Kubernetes cluster.
 
 ![build status](https://ci.codesink.net/api/badges/justinbarrick/go-k8s-portforward/status.svg)
